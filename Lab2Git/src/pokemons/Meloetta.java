@@ -16,7 +16,7 @@ public class Meloetta extends Pokemon {
         this.addMove(new EnergyBall());
         this.addMove(new FocusBlast());
         this.addMove(new DoubleTeam());
-        this.addMove(new TeterDance());
+        this.addMove(new TeeterDance());
 
     }
 }
